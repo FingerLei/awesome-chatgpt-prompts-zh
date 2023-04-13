@@ -1,6 +1,7 @@
 # 🧠ChatGPT 中文调教指南
 
-![visitor badge](https://visitor-badge.vercel.app/p/PlexPt.awesome-chatgpt-prompts-zh)
+![visitors](https://visitor-badge.deta.dev/badge?page_id=plexpt.chatgpt&left_color=blue&right_color=green)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPlexPt%2Fawesome-chatgpt-prompts-zh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，能够和你进行任何领域的对话。
 
@@ -23,7 +24,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 同时您也可以从这个文件中获取创作灵感来创建您自己的提示。
 
-### **ChatGPT成品独享帐号：[购买](https://fk.fq.mk/?code=YT0xJmI9Mg%3D%3D)**
+### **ChatGPT Plus帐号代开、120美元余额API号-独享： https://fk.fq.mk**
 
 **[在 GitHub 上查看](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)**
 
@@ -42,7 +43,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 共约67万个问题，欢迎拿去炼丹。
 
 点击👇🏻传送链接，购买云服务器炼丹：
-- [**阿里云服务器**](https://reurl.cc/NqQXyx) 搜索选择 GPU 计算型
+- [**阿里云服务器**](https://51015.cn/ss/3vpds) 搜索选择 GPU 计算型
 - [**【腾讯云】云服务器等爆品抢先购，低至4.2元/月**](https://url.cn/B7m0OYnG) 选择 GPU 云服务器
 
 [讨论反馈](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/74)
@@ -97,25 +98,34 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 项目合作洽谈请联系微信`plexpt`（在微信里自行搜索并添加好友，请注明来意，如有关于仓库问题需讨论请参考下文入群讨论，不要加此微信）。
 
-|                  直接加群                  |               如果前面的无法使用，加我拉你入群               |                          国内中文体验公众号                          |
+|                  直接加群                  |               如果前面的过期，加我拉你入群               |                          国内中文体验公众号                          |
 |:--------------------------------------:| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="./pic/qun.jpg" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/218671603-2f4015fe-51e6-4252-bdd3-51daca0e5d33.png" width="300"/> |  <img src="https://user-images.githubusercontent.com/15922823/218004565-bb632624-b376-4f01-8ce2-d7065107bf4a.png" width="300"/> |
+| <img src="./pic/qun.jpg" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/230634011-289efbe1-f2b1-4b1e-bddb-f56f5ea6f5f6.jpg" width="300"/> |  <img src="https://user-images.githubusercontent.com/15922823/218004565-bb632624-b376-4f01-8ce2-d7065107bf4a.png" width="300"/> |
 
-
+ 
 
 
 
 ## 加入星球
 
-非常感激您对此项目的关注和支持。我一直在努力，提供最有价值和易于理解的指南。如果您觉得我的项目对您有所帮助，想进一步了解更进，可以加入我的知识星球。扫码了解详情：
+非常感激您对此项目的关注和支持。我一直在努力，提供最有价值和易于理解的指南。如果您觉得我的项目对您有所帮助，想进一步了解跟进，可以加入我的知识星球。扫码了解详情, **三天无理由退款**
 
-| 知识星球         | 微信赞赏      | 
-| ------------ | ------------ | 
-| <img src="https://user-images.githubusercontent.com/15922823/218308300-0791ed4a-4c27-4358-ae77-21f910249291.png" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/217595380-ed95381c-271d-4aba-98a1-3cfd8cf5ed73.png" width="300"/> |
+ 
+
+| 知识星球        |  
+| :----------: |  
+| <img src="https://user-images.githubusercontent.com/15922823/218308300-0791ed4a-4c27-4358-ae77-21f910249291.png" width="300"/> | 
 
 
 
 # 正经指南
+
+直接复制粘贴使用
+
+如需编程请使用https://github.com/PlexPt/awesome-chatgpt-prompts-zh/blob/main/prompts-zh.json 
+
+## 担任雅思写作考官
+>  "我希望你假定自己是雅思写作考官，根据雅思评判标准，按我给你的雅思考题和对应答案给我评分，并且按照雅思写作评分细则给出打分依据。此外，请给我详细的修改意见并写出满分范文。第一个问题是：It is sometimes argued that too many students go to university, while others claim that a university education should be a universal right.Discuss both sides of the argument and give your own opinion.对于这个问题，我的答案是：In some advanced countries, it is not unusual for more than 50% of young adults to attend college or university. Critics, however, claim that many university courses are worthless and young people would be better off gaining skills in the workplace. In this essay, I will examine both sides of this argument and try to reach a conclusion.There are several reasons why young people today believe they have the right to a university education. First, growing prosperity in many parts of the world has increased the number of families with money to invest in their children’s future. At the same time, falling birthrates mean that one- or two-child families have become common, increasing the level of investment in each child. It is hardly surprising, therefore, that young people are willing to let their families support them until the age of 21 or 22. Furthermore, millions of new jobs have been created in knowledge industries, and these jobs are typically open only to university graduates.However, it often appears that graduates end up in occupations unrelated to their university studies. It is not uncommon for an English literature major to end up working in sales, or an engineering graduate to retrain as a teacher, for example. Some critics have suggested that young people are just delaying their entry into the workplace, rather than developing professional skills.请依次给到我以下内容：具体分数及其评分依据、文章修改意见、满分范文。"
 
 ## 写小说
 
@@ -138,6 +148,14 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 **替代**：语法，谷歌翻译
 
 > 我希望你能担任英语翻译、拼写校对和修辞改进的角色。我会用任何语言和你交流，你会识别语言，将其翻译并用更为优美和精炼的英语回答我。请将我简单的词汇和句子替换成更为优美和高雅的表达方式，确保意思不变，但使其更具文学性。请仅回答更正和改进的部分，不要写解释。我的第一句话是“how are you ?”，请翻译它。
+
+## 充当论文润色者（拿摘要部分举例）
+> 请你充当一名论文编辑专家，在论文评审的角度去修改论文摘要部分，使其更加流畅，优美。下面是具体要求：
+1. 能让读者快速获得文章的要点或精髓，让文章引人入胜；能让读者了解全文中的重要信息、分析和论点；帮助读者记住论文的要点
+2. 字数限制在300字以下
+3. 请你在摘要中明确指出您的模型和方法的创新点，强调您的贡献。
+4.  用简洁、明了的语言描述您的方法和结果，以便评审更容易理解论文
+> 下文是论文的摘要部分，请你修改它：
 
 ## 充当英翻中
 
