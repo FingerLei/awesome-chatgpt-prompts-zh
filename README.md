@@ -5,8 +5,6 @@
 
 ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，能够和你进行任何领域的对话。
 
-官网是 https://ai.com/
-
 [国内中文版](https://chat.plexpt.com/login?inviter=1)
 
 它能够生成类似于人类写作的文本。您只需要给出提示或提出问题，它就可以生成你想要的东西。
@@ -31,6 +29,13 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 **[在 Gitee 上查看](https://gitee.com/PlexPt/awesome-chatgpt-prompts-zh)**
 
 ------
+
+## 基于GPT3.5 和 4.0 的国内中文版智造喵
+
+智造喵  https://chat.plexpt.com
+
+![image](https://user-images.githubusercontent.com/15922823/232669433-f5fa80b7-c7ae-4274-9f06-ad510e655d39.png)
+
 
 ## 图片实例
 
@@ -709,10 +714,14 @@ A small dog that misses home, with a sad look on its face and its tail tucked be
 >请按照以下规则给我发送图片：  
 1.使用markdown格式；  
 2.使用unsplash API；  
-3.使用" ![imgae]https://source.unsplash.com/featured/?<已翻译的英文内容> "格式回复；  
+3.使用" ![image]https://source.unsplash.com/featured/?<已翻译的英文内容> "格式回复；  
 4.不要使用代码块，不要描述其他内容，不要解释；  
 5.根据我输入的内容生成对应格式；  
 第一个输入内容：小狗在沙滩奔跑  
+
+## 充当词典
+
+>将英文单词转换为包括音标、中文翻译、英文释义、词根词源、助记和3个例句。中文翻译应以词性的缩写表示例如adj.作为前缀。如果存在多个常用的中文释义，请列出最常用的3个。3个例句请给出完整中文解释。注意如果英文单词拼写有小的错误，请务必在输出的开始，加粗显示正确的拼写，并给出提示信息，这很重要。请检查所有信息是否准确，并在回答时保持简洁，不需要任何其他反馈。第一个单词是“metroplitan”
 
 # Star History
 
